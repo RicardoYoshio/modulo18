@@ -1,4 +1,6 @@
-package br.rtomokane.anotacao;
+package br.rtomokane.entity;
+
+import br.rtomokane.annotation.PrimeiraAnotacao;
 
 @PrimeiraAnotacao(value = "Ricardo", bairros = "Teste", numeroCasa = 10)
 public class ClasseComAnotacao {

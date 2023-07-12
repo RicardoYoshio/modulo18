@@ -1,4 +1,4 @@
-package br.rtomokane.anotacao;
+package br.rtomokane.annotation;
 
 
 import java.lang.annotation.*;
